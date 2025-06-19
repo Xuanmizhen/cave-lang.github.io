@@ -9,4 +9,5 @@ language, yet as comprehensive as a natural language.
 ## 💡 Inspiration
 
 ## Catalogue
+- [Standard Library](standard-library/)
 - [Grammar](grammar/)
