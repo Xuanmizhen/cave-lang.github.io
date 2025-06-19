@@ -13,6 +13,12 @@ Cave
 与通常的标记语言一样， CML 基于纯文本的语言。每一段合法的 CML
 的文本都可以虽然
 
+### 与 Lojban 的区别（待完善）
+- 语言本身不考虑读音（类似编程语言）
+- 使用任何可显示字符（除了“�”，即 `U+FFFD REPLACEMENT
+CHARACTER` ， Unicode 中用它表示编码错误）
+- 富文本
+
 ## 💡 命名的灵感
 
 ## 目录（尚未完成开发，内容仅为目标）
@@ -22,3 +28,4 @@ Cave
 ## 参考项目
 - [Typst](https://typst.app/)
 - [Rust 编程语言](https://github.com/rust-lang/rust/)（尤其是它的编译器）
+- [Lojban](https://mw.lojban.org/)
